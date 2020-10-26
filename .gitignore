@@ -1,0 +1,5 @@
+*.data.json
+filesToSend
+files
+contacts
+node_modules

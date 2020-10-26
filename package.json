@@ -1,0 +1,21 @@
+{
+  "name": "wa-bot",
+  "version": "1.0.0",
+  "description": "wa bot to message list number and message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "wa",
+    "bot",
+    "listnumber"
+  ],
+  "author": "arisjiratkurniawan@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.0.6",
+    "csvtojson": "^2.0.10"
+  }
+}
