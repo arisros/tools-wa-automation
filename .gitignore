@@ -3,3 +3,5 @@ filesToSend
 files
 contacts
 node_modules
+errors
+.DS_Store
